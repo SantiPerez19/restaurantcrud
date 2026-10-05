@@ -2,6 +2,10 @@
 
 Proyecto de la materia **Base de Datos I**. Aplicación de escritorio que ofrece una interfaz gráfica para administrar la información de un restaurante mediante operaciones **CRUD** (Crear, Leer, Actualizar, Eliminar) sobre una base de datos **PostgreSQL**, además de operaciones de negocio y generación de **reportes en PDF**.
 
+## Captura
+
+![Ventana principal con la tabla de platillos](docs/captura.png)
+
 ## Descripción general
 
 La aplicación se conecta a la base de datos `restaurantDB` en PostgreSQL y presenta una ventana principal con una barra de menús desde la que se realizan todas las operaciones:
